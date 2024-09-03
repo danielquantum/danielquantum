@@ -1,6 +1,6 @@
 ## Hi there 
 
-👋 I am Daniel, a Data Scientist and a Data Analyst
+👋 Hi, I am Daniel. I am a Data Scientist.
 
 ## About me
 - 🔭 I’m currently working on developing machine-learning models to predict the upcoming cyberattack events
