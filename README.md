@@ -10,7 +10,7 @@ I am Daniel, a data scientist working in an IT company and collaborating with a 
 ## Here are my selected portfolio for Data Science projects:
 https://www.datacamp.com/portfolio/danielsethio
 
-## My data science notes, written using Obsidian program, can be found at:
+## My data science notes, written using the Obsidian program, can be found at:
 https://github.com/danielquantum/data_science_notes 
 
 # 📫 How to reach me:
