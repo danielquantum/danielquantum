@@ -1,6 +1,7 @@
 ## Hey there!
 
 👋 Thank you for visiting my GitHub repository. 
+
 I am Daniel, a data scientist working in an IT company and collaborating with a bank.
 
 ## About me
