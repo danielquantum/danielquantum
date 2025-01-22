@@ -2,10 +2,9 @@
 
 👋 Thank you for visiting my GitHub repository. 
 
-I am Daniel, a data scientist.
 
 ## About me
-- 🔭 Currently, I’m developing machine-learning models to predict the upcoming cyberattack events. I used first- and second-order Markov chain, Autoregressive Integrated Moving Average (Auto-ARIMA), and deep learning models. The best-performing models yield 91% accuracy in predicting cyber threats in upcoming months.
+- 🔭 I am a data scientist, working on Fraud Analytics and Retail Analytics.
   
 ## Here are my selected portfolio for Data Science projects:
 https://www.datacamp.com/portfolio/danielsethio
