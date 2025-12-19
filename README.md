@@ -4,7 +4,7 @@
 
 
 ## About me
-- 🔭 I am a data scientist, working on Fraud Analytics and Retail Analytics.
+- 🔭 I am a data scientist, working on Fraud Analytics and Customer Analytics.
   
 ## Here are my selected portfolio for Data Science projects:
 https://www.datacamp.com/portfolio/danielsethio
