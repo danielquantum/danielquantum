@@ -2,41 +2,48 @@
 
 Welcome to my GitHub!
 
-I’m a **Data Scientist specializing in Fraud Analytics and Customer Analytics**, with a strong focus on building high-performance, production-ready systems.
+I'm a **Data Scientist specializing in Fraud Analytics and Customer Analytics**, with experience building **machine learning models and high-performance production systems**.
 
 ---
 
 ## 🚀 What I Do
 
-- 🔍 **Fraud Analytics & Risk Modeling**
-- 📊 **Customer Analytics & Behavioral Modeling**
-- 🧠 **Similarity Engines for Recommendation & Fraud Detection**
-- 💬 **Chatbot Analytics**
-  - Built systems that allow users to query databases using natural language — no SQL required.
-- ⚡ **High-Performance API Engineering**
-  - Rewrote an event similarity API from **Python to Go**
-  - Reduced latency from **~300ms → ~3ms**
-  - Optimized numerical computation using matrix operations
+### 🔍 Fraud Analytics & Risk Modeling
+Designing machine learning models to detect fraudulent behavior and manage financial risk.
+
+### 📊 Customer Analytics & Behavioral Modeling
+Analyzing customer behavior to generate insights and support better business decisions.
+
+### 🧠 Similarity Engines for Recommendation & Fraud Detection
+Developing similarity-based systems for product recommendations and anomaly detection.
+
+### 💬 Natural Language Analytics Systems
+Built systems that allow users to query databases using **natural language — no SQL required**.
+
+### ⚡ High-Performance API Engineering
+- Rewrote an event similarity API from **Python to Go**
+- Reduced latency from **~300ms → ~3ms**
+- Optimized numerical computation using **matrix operations**
 
 ---
 
 ## 🧠 Technical Focus
 
 - Machine Learning & Statistical Modeling  
-- Numerical optimization & similarity metrics  
-- Vectorized feature engineering  
-- FastAPI → Go (Fiber) API migrations  
-- Redis-based history systems  
-- Production ML systems  
+- Similarity Metrics & Numerical Optimization  
+- Vectorized Feature Engineering  
+- FastAPI → Go (Fiber) API Migration  
+- Redis-based Event History Systems  
+- Production-grade ML Systems
 
 ---
 
-## 📂 Selected Portfolio
+## 📂 Portfolio
 
 🔗 **Data Science Portfolio**  
 https://www.datacamp.com/portfolio/danielsethio
 
-📘 **Data Science Notes (Obsidian-based Knowledge Base)**  
+📘 **Data Science Notes (Obsidian Knowledge Base)**  
 https://github.com/danielquantum/data_science_notes
 
 ---
